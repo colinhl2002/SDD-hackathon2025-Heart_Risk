@@ -1,1 +1,4 @@
-extra.csv
+data/extra.csv
+data/sample_submission.csv
+data/test.csc
+data/train.csv
